@@ -19,4 +19,8 @@
 ### Alt E-mail: deapantsulaia@gmail.com
 
 #
+### About Myself:
+
+I graduated Tbilisi State University with the law degree. Even though law is quite interesting I didn't enjoy practising it at all and decided to find a job that I would actually enjoy. After a year and a lot of trials and errors later I realized that the field where I'd like to work lies within web development. I hope to learn useful skills and become truly good developer in the future.
+#
 #
