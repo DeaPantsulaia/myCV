@@ -6,3 +6,4 @@
                 opacity: 80%;
             }
             </style>
+            <title> Medea Pantsulaia</title>            
